@@ -1,7 +1,7 @@
 Sharedge
 ========
 
-Share an edge of desktop with your friend
+Share an edge of desktop with your friend!
 
 Installing
 ----------
